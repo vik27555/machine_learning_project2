@@ -1,5 +1,11 @@
 # machine_learning_project2
-this is my first machine learning project.
+## this is my first machine learning project.
+
+1. [Github account](https://github.com)
+2. [heroku account](https://dashboard.heroku.com/login)
+3. [vs code ide](https://code.visualstdio.com/download)
+4. [GIT Cli](https://git-scm.com/downloads)
+5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
 
 
 Creating conda environment
@@ -38,4 +44,13 @@ git log
 to create version/commit all changes by git
 ```
 git commit -m "message"
+```
+
+To send version/changes to github
+```
+git push origin main
+```
+to check remote url
+```
+git remote -v
 ```
