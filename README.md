@@ -67,3 +67,23 @@ BUILD DOCKER IMAGE
 docker build -t <image_name>:<tagname> .
 ```
 > Note: Image name for docker must be lowercase
+
+To list docker images
+```
+docker images
+```
+
+run docker images
+```
+docker run -p 5000:5000 -e PORT=5000 f8c749e73678
+```
+
+to check running container in docker
+```
+docker ps
+```
+
+Tos stop docker container
+```
+docker stop <container_id>
+```
